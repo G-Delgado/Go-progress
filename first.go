@@ -39,7 +39,13 @@ func main() {
 	// main9()
 	// main10()
 	// main11()
-	main12()
+	// main12()
+	// main13()
+	// main14()
+	// main15()
+	// main16()
+	// main17()
+	main18()
 
 	// fmt.Println("Hello, World!")
 }
